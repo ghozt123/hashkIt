@@ -1,4 +1,4 @@
-# hashkIt
+# hashkit
 🕵️‍♂️Small hash module written for multiple hash operations
 
 # Dependencies 
